@@ -3,8 +3,8 @@
 Локальное развёртывание:
 --------------------------------------
 
-Клонируем репозиторий на локальную машину:
-$ git clone https://github.com/A-Kuklin/yatube.git
+Клонируем репозиторий на локальную машину, например через ssh:
+$ git clone git@github.com:redsam69/Parsing_cbr.git
 
 Создаем виртуальное окружение:
 $ python3 -m venv venv
